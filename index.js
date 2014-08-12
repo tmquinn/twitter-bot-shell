@@ -34,4 +34,6 @@ function textBot() {
 		});
 }
 
-setInterval(textBot, 1 * 60 * 1000); //One minute
+textBot();
+
+setInterval(textBot, 30 * 60 * 1000);
