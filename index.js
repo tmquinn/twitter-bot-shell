@@ -25,6 +25,8 @@ function textBot() {
 		status = tweets[_.random(tweets.length - 1)];
 	}
 
+	console.log('Tweeting: ' + status);
+
 	bot.tweet(status)
 		.then(function (result) {
 			console.log(result);
