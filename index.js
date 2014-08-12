@@ -40,4 +40,4 @@ console.log('FOOOOOOOOOOOOOOOOO');
 
 textBot();
 
-//setInterval(textBot, 0.5 * 60 * 1000);
+setInterval(textBot, 0.5 * 60 * 1000);
