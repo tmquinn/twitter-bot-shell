@@ -36,8 +36,4 @@ function textBot() {
 		});
 }
 
-console.log('FOOOOOOOOOOOOOOOOO');
-
 textBot();
-
-setInterval(textBot, 15 * 60 * 1000);
