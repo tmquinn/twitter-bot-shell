@@ -695,7 +695,7 @@ module.exports = [
 	"Why aren't you helping me!",
 	"Why am I so angry for no reason?",
 	"Sometimes you just wake up on the wrong side of the bed.",
-	"Why doesn't anybody like me?".
+	"Why doesn't anybody like me?",
 	"If I wanted your opinion, I wouldn't be me.",
 	"It was everyone else's fault.",
 	"If I had a decent team, this never would have happened.",
